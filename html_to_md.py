@@ -42,7 +42,7 @@ def convert_html_to_markdown(html_file, output_dir):
 
 def main(input_dir, output_dir):
     """
-    Converts HTML files starting with a digit in the input directory to Markdown files
+    Converts all HTML files in the input directory to Markdown files
     in the output directory.
 
     Args:
@@ -53,11 +53,11 @@ def main(input_dir, output_dir):
         os.makedirs(output_dir)
 
     for filename in os.listdir(input_dir):
-        if filename.endswith('.html') and filename[0].isdigit():
+        if filename.endswith('.html'):
             html_file = os.path.join(input_dir, filename)
             convert_html_to_markdown(html_file, output_dir)
 
 if __name__ == "__main__":
-    input_directory = './OpenStax Anatomy and Physiology 2e'  # Replace with the actual path
+    input_directory = './OpenStax Anatomy and Physiology 2e/html'  # Updated to target the specific directory
     output_directory = './markdown_output'  # Replace with the desired output directory
     main(input_directory, output_directory)
