@@ -1,4 +1,4 @@
-Chapter 1: An Introduction to the Human Body
+# Chapter 1: An Introduction to the Human Body
 
 Question 1.6: "Which of the following specialties might focus on studying all of the structures of the ankle and foot?"
 Correct Answer: regional anatomy
@@ -66,7 +66,9 @@ Explanation: Ultrasonography uses high-frequency sound waves, not ionizing radia
 Question 1.27: "What are two major disadvantages of MRI scans?"
 Correct Answer: high cost and the need for shielding from the magnetic signals (interpreted as high cost and patient contraindications/discomfort due to the strong magnet and confined space)
 Explanation: While very detailed, MRI scans are expensive. The strong magnetic field means patients with certain metallic implants cannot undergo MRI, and the confined space of the scanner can be problematic for claustrophobic individuals. It takes time (often 30 minutes or more). MRI does not use ionizing radiation. Option B has a partially correct point (high cost) but shielding is for the room, not the patient directly, and the main patient issue is the confinement and metal contraindications. Self-correction: Re-evaluating the options provided, option B mentions high cost and the need for shielding which is true for the facility, but a more patient-centric disadvantage paired with high cost relates to the procedure itself. Option D mentions radiation (incorrect for MRI) and confinement (correct). Option C is incorrect. Considering common knowledge, the high cost and issues related to the strong magnetic field (patient confinement, noise, metal implants) are the key drawbacks. Option B is the closest, though phrased slightly awkwardly. The most accurate common disadvantages are the high cost and patient factors like claustrophobia and metal implant contraindications. None of the options perfectly capture this. Option B is likely the intended answer focusing on cost and the technical requirement of shielding.
-Chapter 2: The Chemical Level of Organization
+
+
+# Chapter 2: The Chemical Level of Organization
 
 Question 2.4: "Together, just four elements make up more than 95 percent of the body’s mass. These include ________."
 Correct Answer: oxygen, carbon, hydrogen, and nitrogen
@@ -165,7 +167,8 @@ Explanation: Uracil is a nitrogenous base (contains nitrogen) that replaces thym
 Question 2.32: "The ability of an enzyme’s active sites to bind only substrates of compatible shape and charge is known as ________."
 Correct Answer: specificity
 Explanation: Enzyme specificity refers to the precise fit between an enzyme's active site and its specific substrate(s), determined by shape and chemical properties, allowing the enzyme to catalyze only certain reactions.
-Chapter 3: The Cellular Level of Organization
+
+# Chapter 3: The Cellular Level of Organization
 
 Question 3.6: "Because they are embedded within the membrane, ion channels are examples of ________."
 Correct Answer: integral proteins
@@ -243,7 +246,8 @@ Explanation: Hematopoietic stem cells, found in bone marrow, are multipotent ste
 Question 3.29: "What multipotent stem cells from children sometimes banked by parents?"
 Correct Answer: cells from the umbilical cord and from baby teeth
 Explanation: Umbilical cord blood and the pulp of deciduous (baby) teeth contain multipotent stem cells (including hematopoietic and mesenchymal stem cells) that can be cryogenically preserved (banked) for potential future therapeutic use. Fetal and embryonic stem cells have different origins and ethical considerations. Red and white blood cells themselves are differentiated and not stem cells suitable for banking in this context.
-Chapter 4: The Tissue Level of Organization
+
+# Chapter 4: The Tissue Level of Organization
 
 Question 4.7: "Which of the following is not a type of tissue?"
 Correct Answer: embryonic
@@ -320,7 +324,8 @@ Explanation: Atrophy is the decrease in size or wasting away of a body part or t
 Question 4.30: "Individuals can slow the rate of aging by modifying all of these lifestyle aspects except for ________."
 Correct Answer: genetic factors
 Explanation: While diet, exercise, and stress management are lifestyle factors that can influence the rate of aging and associated health problems, an individual's genetic makeup, which also plays a significant role in aging and longevity, cannot be modified through lifestyle choices.
-Chapter 5: The Integumentary System
+
+# Chapter 5: The Integumentary System
 
 Question 5.5: "The papillary layer of the dermis is most closely associated with which layer of the epidermis?"
 Correct Answer: stratum basale
